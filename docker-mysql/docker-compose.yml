@@ -11,4 +11,4 @@ services:
       - 3306:3306
       - 33060:33060
     volumes: 
-      - mysql-jp:/var/lib/mysql
+      - mysql_jp:/var/lib/mysql
